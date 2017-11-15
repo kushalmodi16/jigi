@@ -18,11 +18,11 @@ namespace Connection_query
         }
 
 
-        public void CloseConnection()
+      /*  public void CloseConnection()
         {
             con.Close();
         }
-
+*/
 
         public void ExecuteQueries(string Query_)
         {
